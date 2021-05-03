@@ -88,7 +88,7 @@ print(flag)
 ```
 $ python solver2.py
 FLAG{als0-k0own-4s-0n-0ff-key1ng}
-``．
+```
 実行するとフラグが得られました．
 
 # フラグ
