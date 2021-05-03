@@ -38,7 +38,7 @@ return
 キーバインドを変更しようとしたときに見たことがある形式？
 多分AutoHotKeyの設定ファイル
 
-AutoHotKeyをインストール済みの端末にファイルを移動．
+AutoHotKeyがインストール済みの端末にファイルを移動．
 
 拡張子を変更 `password-generator.ahk` 
 
